@@ -1,0 +1,3 @@
+[submodule "MvvmLib"]
+	path = MvvmLib
+	url = https://github.com/parksanghoon-sys/MvvmLib.git
