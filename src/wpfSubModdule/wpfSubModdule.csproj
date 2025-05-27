@@ -8,8 +8,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-	<ItemGroup>
-		<ProjectReference Include="..\MvvmLib\src\CoreMvvmLib.Core\CoreMvvmLib.Core.csproj" />
-		<ProjectReference Include="..\MvvmLib\src\CoreMvvmLib.WPF\CoreMvvmLib.WPF.csproj" />
-	</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\MvvmLib\src\CoreMvvmLib.Core\CoreMvvmLib.Core.csproj" />
+    <ProjectReference Include="..\..\MvvmLib\src\CoreMvvmLib.WPF\CoreMvvmLib.WPF.csproj" />
+  </ItemGroup>
 </Project>
